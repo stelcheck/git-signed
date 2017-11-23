@@ -43,6 +43,7 @@
     "clipboardy": "1.2.2",
     "git-url-parse": "7.0.1",
     "inquirer": "4.0.0",
+    "pretty-error": "2.1.1",
     "tempfile": "2.0.0"
   },
   "contributors": [
@@ -50,6 +51,16 @@
       "name": "stelcheck",
       "email": "mtrudel@wizcorp.jp",
       "key": "keys.gnupg.net#9115133EDCD7C42B13C1890DFCF165CCB3B5B506"
+    },
+    {
+      "name": "Fake User",
+      "email": "fake@mu-shin.ca",
+      "key": "keys.gnupg.net#0AD5BD602C90EC4416ADF31D688EA01E2B75613C"
+    },
+    {
+      "name": "Fake",
+      "email": "fake@mu-shin.ca",
+      "key": "hkp://keys.gnupg.net#1A672713"
     }
   ]
 }
